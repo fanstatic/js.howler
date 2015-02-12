@@ -1,10 +1,10 @@
 CHANGES
 *******
 
-1.1.2 (unreleased)
-==================
+1.1.25 (unreleased)
+===================
 
-- Nothing changed yet.
+- Update to 1.1.25.
 
 
 1.1.1 (2013-04-18)
