@@ -4,8 +4,7 @@ CHANGES
 1.1.27 (unreleased)
 ===================
 
-- Nothing changed yet.
-
+- Update to 2.0.9.
 
 1.1.26.post1 (2015-10-02)
 =========================
